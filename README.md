@@ -1,0 +1,2 @@
+# jenkins
+auto configuration syn
